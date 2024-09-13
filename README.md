@@ -10,8 +10,8 @@ This software enables you to generate a color scale from any image of your choic
 1. **Input**: Provide an image file.
 2. **Output**: The software generates a `.txt` file with 256 RGB values, ready to use in your **Color Editor**.
 
-## How to Download
+### How to Download
 Download the latest version from the [Releases](https://github.com/MaximeMET/BD-color-scale/releases) section on GitHub.
 
-### Example Use Case
+#### Example Use Case
 - Import the output `.txt` file into **OriginPro** Color Editor or any other compatible software to apply the custom color scale to your contour map.
